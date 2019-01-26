@@ -4,13 +4,23 @@ public class Mazda extends Car {
     String model;
     boolean sportMode;
 
-    public Mazda(boolean fly, boolean sail, boolean manual, String model, boolean sportMode) {
-        super(fly, sail, manual);
+    public Mazda(int doors, boolean manual, String model, boolean sportMode) {
+        super(doors, manual);
         this.model = model;
         this.sportMode = false;
     }
 
-    public String tooFasttooFurious(boolean sportMode) {
+    @Override
+    public int velocity(int speed) {
+        if(isSportMode()) {
+            super.velocity(speed+10);
+        } else {
+            super.velocity(speed);
+        }
+        return speed;
+    }
+
+    public String tooFastTooFurious(boolean sportMode) {
 
         String indicator;
         this.sportMode = sportMode;

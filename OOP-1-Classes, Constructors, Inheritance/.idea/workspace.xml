@@ -2,27 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26bb5d06-1b71-4a5c-8611-66e6cdf22fb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-1-Classes, Constructors, Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/julianrios/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/julianrios/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/julianrios/Mazda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/julianrios/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/Inheritance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/out/production/Inheritance/com/company/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/out/production/Inheritance/com/company/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/out/production/Inheritance/com/company/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/out/production/Inheritance/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/src/com/company/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/src/com/company/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/src/com/company/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes:Constructors:Inheritance/Inheritance/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Mazda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Mazda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/julianrios/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/julianrios/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/julianrios/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/julianrios/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/julianrios/Mazda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/julianrios/Mazda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/julianrios/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/julianrios/Vehicle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,36 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/julianrios/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+            <state relative-caret-position="231">
+              <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/julianrios/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-              <folding>
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#622#623#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
-                <element signature="e#737#738#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-                <element signature="e#797#798#0" expanded="true" />
-                <element signature="e#828#829#0" expanded="true" />
-                <element signature="e#855#856#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="354">
+              <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -70,16 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/julianrios/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#2344#2345#0" expanded="true" />
-                <element signature="e#2371#2372#0" expanded="true" />
-                <element signature="e#2410#2411#0" expanded="true" />
-                <element signature="e#2472#2473#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="556">
+              <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -87,13 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/julianrios/Mazda.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-              <folding>
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="154">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -115,15 +74,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/Car.java" />
-        <option value="$PROJECT_DIR$/src/com/julianrios/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/com/julianrios/Car.java" />
         <option value="$PROJECT_DIR$/src/com/julianrios/Mazda.java" />
+        <option value="$PROJECT_DIR$/src/com/julianrios/Car.java" />
         <option value="$PROJECT_DIR$/src/com/julianrios/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/julianrios/Vehicle.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
+    <option name="x" value="590" />
     <option name="y" value="23" />
     <option name="width" value="960" />
     <option name="height" value="1057" />
@@ -135,37 +94,12 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="OOP-1-Classes, Constructors, Inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP-1-Classes, Constructors, Inheritance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP-1-Classes, Constructors, Inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP-1-Classes, Constructors, Inheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OOP-1-Classes, Constructors, Inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP-1-Classes, Constructors, Inheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="julianrios" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548180302595" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548259216969" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,29 +141,27 @@
       <option name="presentableId" value="Default" />
       <updated>1548169624615</updated>
       <workItem from="1548169628875" duration="8823000" />
+      <workItem from="1548180540066" duration="35000" />
+      <workItem from="1548194021565" duration="164000" />
+      <workItem from="1548248364955" duration="5393000" />
+      <workItem from="1548259279854" duration="126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8823000" />
+    <option name="totallyTimeSpent" value="14541000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="23" width="960" height="1057" extended-state="0" />
+    <frame x="590" y="23" width="960" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18518518" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.40468228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32953367" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
@@ -237,15 +169,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32953367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,60 +197,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/julianrios/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/julianrios/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#2344#2345#0" expanded="true" />
-            <element signature="e#2371#2372#0" expanded="true" />
-            <element signature="e#2410#2411#0" expanded="true" />
-            <element signature="e#2472#2473#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="556">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/julianrios/Mazda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding>
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="154">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/julianrios/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        <state relative-caret-position="231">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/julianrios/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
         </state>
       </provider>
     </entry>

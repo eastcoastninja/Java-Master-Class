@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b17a87a1-6b95-4e8b-a5a8-c7e442239a17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/julianrios/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/julianrios/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/julianrios/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/julianrios/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/julianrios/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/julianrios/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/julianrios/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/julianrios/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/julianrios/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompositionChallenge/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompositionChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompositionChallenge/src/com/julianrios/BathRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompositionChallenge/src/com/julianrios/Bathtub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompositionChallenge/src/com/julianrios/Faucet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompositionChallenge/src/com/julianrios/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompositionChallenge/src/com/julianrios/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompositionChallenge/src/com/julianrios/Sink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompositionChallenge/src/com/julianrios/Toilet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/julianrios/EnhancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/julianrios/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/julianrios/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/julianrios/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/julianrios/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Mazda.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Mazda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/out/production/OOP-1-Classes, Constructors, Inheritance/com/julianrios/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/src/com/julianrios/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/src/com/julianrios/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/src/com/julianrios/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/src/com/julianrios/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/src/com/julianrios/Mazda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/src/com/julianrios/Mazda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/src/com/julianrios/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP-1-Classes, Constructors, Inheritance/src/com/julianrios/Vehicle.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/julianrios/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#907#908#0" expanded="true" />
+                <element signature="e#944#945#0" expanded="true" />
+                <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#1038#1039#0" expanded="true" />
+                <element signature="e#1112#1113#0" expanded="true" />
+                <element signature="e#1132#1133#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/julianrios/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="23" />
+    <option name="width" value="960" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Polymorphism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Polymorphism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Polymorphism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Polymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Polymorphism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Polymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="julianrios" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548424357581" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.julianrios.Main" />
+      <module name="Polymorphism" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b17a87a1-6b95-4e8b-a5a8-c7e442239a17" name="Default Changelist" comment="" />
+      <created>1548419387607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548419387607</updated>
+      <workItem from="1548419389272" duration="3926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3926000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="23" width="960" height="1057" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24945533" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3968912" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="805" column="25" selection-start-line="805" selection-start-column="25" selection-end-line="805" selection-end-column="25" />
+          <folding>
+            <element signature="e#33242#33243#0" expanded="true" />
+            <element signature="e#33327#33328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/julianrios/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1132#1133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
