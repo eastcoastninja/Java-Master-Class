@@ -152,7 +152,7 @@ class Tesla extends Car {
 
     @Override
     public int accelerate(int speed) {
-        System.out.print("Tesla -> ");
+        System.out.print(getClass().getSimpleName() + " -> "); // get
         return super.accelerate(speed);
     }
 
