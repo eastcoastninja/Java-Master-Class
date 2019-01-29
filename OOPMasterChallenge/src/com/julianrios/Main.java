@@ -9,11 +9,11 @@ public class Main {
         HealthyBurger hb = new HealthyBurger("Crabby Patty", "Crabby");
         Hamburger hamb = new Hamburger("Crabby Patty", "Crabby", "patty");
 
-//        System.out.println(db.getChips());
-//        System.out.println(db.getDrink());
-//        System.out.println(db.getRoll());
-//        System.out.println(db.getName());
+        hb.pricesMenu();
         hb.additions();
+        hb.getGrandTotal();
+//        db.pricesMenu();
+//        hamb.pricesMenu();
 
     }
 }

@@ -1,5 +1,6 @@
 package com.julianrios;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Hamburger {
@@ -15,8 +16,6 @@ public class Hamburger {
         this.name = name;
         this.roll = roll;
         this.meat = meat;
-        this.grandTotal = 0;
-        this.additionsTotal = 0;
         this.burgerPrice = setBurgerPrice();
         this.maxAdditions = setMaxAdditions();
     }
@@ -73,10 +72,14 @@ public class Hamburger {
 
             maxCounter(addOn);
 
+//            ArrayList <String> order = new ArrayList<String>();
+//            order.add(addOn);
+//            String extra = " ";
 
             if(!(addOn.equals("no"))) {
 
                 // if the value readIn equals anything but no run the loop
+
                 do {
 
                     this.additionsTotal += addOnPrices(addOn); // gets pricesMenu of each addOn and adds them into the additionsTotal
@@ -92,11 +95,20 @@ public class Hamburger {
 
                     maxCounter(addOn);
 
+//                    order.add(addOn);
+//                    String temp;
+//                    for(int i = 0;  i < order.size(); i++) {
+//                        if(!(order.get(i).contains("no"))){
+//                            temp = order.get(i);
+//                            extra = new StringBuilder().append(temp).toString();
+//                        }
+//                    }
                 } while(!(addOn.equals("no")));
+
+//                System.out.println("You ordered the " + getName() + " with " + getMeat() + " on a " + getRoll() + " Extras: " + extra);
             }
 
             System.out.println("Total cost of additions: $" + String.format("%.2f", this.additionsTotal));
-
         }
 
         return this.additionsTotal;
@@ -121,9 +133,6 @@ public class Hamburger {
 
         }
 
-//        String order = "You purchased " + getName() + " " + getRoll() + " " + getMeat() + " " + addOns;
-//        order(order);
-
         return valid;
     }
 
@@ -131,6 +140,7 @@ public class Hamburger {
 
         double temp = 0; // used to store pricing of additionsTotal in temp var to be transferred to additionsTotal var if added
         addOn = addOn.toLowerCase();
+        String addOn1, addOn2, addOn3, addOn4;
 
         switch (addOn) {
 
@@ -167,6 +177,7 @@ public class Hamburger {
         System.out.println("===================");
         System.out.println(getClass().getSimpleName()+" Menu");
         System.out.println("===================");
+        System.out.println(getName() + ": $" + String.format("%.2f", getBurgerPrice()));
         temp += addOnPrices("lettuce");
         temp += addOnPrices("tomato");
         temp += addOnPrices("onions");
@@ -185,9 +196,4 @@ public class Hamburger {
         System.out.println(getName() + " with everything: $" + everythingBurger);
     }
 
-//    public String order(String order) {
-//
-//        System.out.println("You purchased " + order);
-//        return order;
-//    }
 }

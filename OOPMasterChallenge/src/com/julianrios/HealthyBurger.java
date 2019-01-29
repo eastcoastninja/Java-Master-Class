@@ -6,8 +6,7 @@ public class HealthyBurger extends Hamburger {
     private int maxAdditions;
 
     public HealthyBurger(String name, String meat) {
-        super(name, "brown rye roll", meat);
-        this.additionsTotal = 0;
+        super(name, "Brown rye roll", meat);
     }
 
     @Override
